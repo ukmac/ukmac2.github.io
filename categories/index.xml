@@ -6,5 +6,14 @@
     <description>Recent content in Categories on Ukmac</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://ukmac.net/ukmac2.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple</title>
+      <link>https://ukmac.net/ukmac2.github.io/categories/apple/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ukmac.net/ukmac2.github.io/categories/apple/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
