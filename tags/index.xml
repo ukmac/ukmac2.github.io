@@ -1,37 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Tags on Ukmac</title>
-    <link>https://ukmac.net/ukmac2.github.io/tags/</link>
-    <description>Recent content in Tags on Ukmac</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ukmac.net/ukmac2.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Apps</title>
-      <link>https://ukmac.net/ukmac2.github.io/tags/apps/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ukmac.net/ukmac2.github.io/tags/apps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Daily Post</title>
-      <link>https://ukmac.net/ukmac2.github.io/tags/daily-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ukmac.net/ukmac2.github.io/tags/daily-post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>iOS</title>
-      <link>https://ukmac.net/ukmac2.github.io/tags/ios/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ukmac.net/ukmac2.github.io/tags/ios/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - Ukmac</title>
+        <link>https://ukmac.net/ukmac2.github.io/tags/</link>
+        <description>Tags - Tag - Ukmac</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://ukmac.net/ukmac2.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Apps</title>
+    <link>https://ukmac.net/ukmac2.github.io/tags/apps/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://ukmac.net/ukmac2.github.io/tags/apps/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Daily Post</title>
+    <link>https://ukmac.net/ukmac2.github.io/tags/daily-post/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://ukmac.net/ukmac2.github.io/tags/daily-post/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>iOS</title>
+    <link>https://ukmac.net/ukmac2.github.io/tags/ios/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://ukmac.net/ukmac2.github.io/tags/ios/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
 </rss>
